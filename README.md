@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Here's my `Manifest.toml`:
+
+```toml
+
+[personal]
+name = 'Osmartin Pardomuan Siregar'
+city = 'Bandung, Indonesia'
+email = '72garmartin "at" gmail.com'
+
+[professional]
+currently-employed = true
+title = 'Software Engineer'
+employer = 'Mega Data Solusindo, PT'
+
 <!--
 **martin72gar/martin72gar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
