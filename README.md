@@ -12,7 +12,6 @@ email = '72garmartin "at" gmail.com'
 [professional]
 currently-employed = true
 title = 'Software Engineer'
-employer = 'Mega Data Solusindo, PT'
 ```
 
 <!--
