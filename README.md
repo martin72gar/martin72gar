@@ -6,12 +6,12 @@ Here's my `Manifest.toml`:
 
 [personal]
 name = 'Osmartin Pardomuan Siregar'
-city = 'Bandung, Indonesia'
+city = 'Jakarta, Indonesia'
 email = '72garmartin "at" gmail.com'
 
 [professional]
 currently-employed = true
-title = 'Software Engineer'
+title = 'Android Developer'
 ```
 
 <!--
